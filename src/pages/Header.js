@@ -4,8 +4,8 @@ class Header extends Component {
     render() {
         return (
             <div className="header">
-                <h1>Demo Application</h1>
-                <p>Demo application created in React App</p>
+                <h1>Multi Component React Application</h1>
+                <p>application started from create-react-app script</p>
             </div>
         );
     }

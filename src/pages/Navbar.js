@@ -5,8 +5,8 @@ class Navbar extends Component {
         return (
             <div className="navbar">
                 <a href="https:/www.google.com">Home</a>
-                <a href="https:/www.microsoft.com">About</a>
-                <a href="#" className="right">Contact</a>
+                <a href="https:/www.google.com">About</a>
+                <a href="https:/www.apple.com" className="right">Contact</a>
             </div>
         );
     }

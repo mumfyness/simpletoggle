@@ -17,8 +17,8 @@
 }
 
 .App-header { /* orig color #282c34 */
-  background: black;
-  min-height: 60vh;
+  background: darkblue;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,6 +29,7 @@
 
 .App-link {
   color: #61dafb;
+  display: none;
 }
 
 .App-toggle {
