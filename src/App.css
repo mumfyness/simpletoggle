@@ -6,7 +6,7 @@
 }
 
 .App-logo {
-  height: 30vmin;
+  height: 4vmin;
   pointer-events: none;
 }
 
@@ -18,7 +18,7 @@
 
 .App-header { /* orig color #282c34 */
   background: darkblue;
-  min-height: 10vh;
+  min-height: 1vh;
   display: flex;
   flex-direction: column;
   align-items: center;
