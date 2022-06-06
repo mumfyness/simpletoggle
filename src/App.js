@@ -18,16 +18,13 @@ function App() {
     <div className="app">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.tetradigital.com"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noreferrer"
         >
-          Explorer react components -> reactjs.org
+          TetraDigital
         </a>
       </header>
       <Header />
