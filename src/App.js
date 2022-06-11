@@ -22,7 +22,7 @@ function App() {
           className="App-link"
           href="https://www.tetradigital.com"
           target="_blank"
-          rel="noreferrer"
+          rel=""noopener noreferrer"
         >
           TetraDigital
         </a>
